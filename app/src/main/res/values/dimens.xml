@@ -1,0 +1,93 @@
+<resources>
+  <!-- Default screen margins, per the Android Design guidelines. -->
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+
+  <!--标题栏高度-->
+  <dimen name="main_top_title_height">50dp</dimen>
+  <!--底部标签的高度-->
+  <dimen name="main_bottom_tab_height">60dp</dimen>
+  <!--轮播图高度-->
+  <dimen name="main_home_banner">186dp</dimen><!--195dp-->
+
+  <!--活动图高度-->
+  <dimen name="main_activities_height">150dp</dimen><!---->
+  <!--列表项高度-->
+  <dimen name="list_height">50dp</dimen><!--195dp-->
+
+
+  <!--  间距的设置 -->
+  <dimen name="dimen_xxxlarge">100dp</dimen>
+  <dimen name="dimen_large_bottom">80dp</dimen>
+  <dimen name="dimen_large_top">48dp</dimen>
+  <dimen name="dimen_xxlarge">32dp</dimen>
+  <dimen name="dimen_xlarge">28dp</dimen>
+  <dimen name="dimen_large_xx">24dp</dimen>
+  <dimen name="dimen_large_x">22dp</dimen>
+  <dimen name="dimen_large">20dp</dimen>
+
+  <dimen name="dimen_middle_x">18dp</dimen>
+  <dimen name="dimen_middle">16dp</dimen>
+  <dimen name="dimen_normal_xx">14dp</dimen>
+  <dimen name="dimen_normal_x">12dp</dimen>
+
+  <dimen name="dimen_normal">10dp</dimen>
+  <dimen name="dimen_small_xx">8dp</dimen>
+  <dimen name="dimen_small_x">6dp</dimen>
+  <dimen name="dimen_small">4dp</dimen>
+
+
+  <!--字体大小标准  720 -->
+  <dimen name="size_1">18.0sp</dimen>
+  <dimen name="size_2">17.0sp</dimen>
+  <dimen name="size_3">16.0sp</dimen>
+  <dimen name="size_4">15.0sp</dimen>
+  <dimen name="size_5">14.0sp</dimen>
+  <dimen name="size_6">13.0sp</dimen>
+  <dimen name="size_7">12.0sp</dimen>
+  <dimen name="size_8">11.0sp</dimen>
+  <dimen name="size_large">28.0sp</dimen>
+  <dimen name="size_large_x">35.0sp</dimen>
+  <dimen name="size_large_home_x">37.0sp</dimen>
+  <dimen name="size_large_mine">40.0sp</dimen>
+  <dimen name="size_super_large">60.0sp</dimen>
+  <dimen name="size_small">8.0sp</dimen>
+  <!--dialog尺寸-->
+  <dimen name="dialog_singlechoice_width">16dp</dimen>
+  <!--我的－提现／充值按钮  圆角-->
+  <dimen name="button_radius">3dp</dimen>
+  <!--间距-->
+  <dimen name="list_divider">10dp</dimen>
+  <dimen name="margin_left_right">15dp</dimen>
+  <dimen name="text_margin">16dp</dimen>
+  <dimen name="text_drawable_padding">4dp</dimen>
+
+  <dimen name="divider_line">1px</dimen>
+  <dimen name="divider_line_big">10dp</dimen>
+  <dimen name="step_line">1dp</dimen>
+
+  <dimen name="button_height">44dp</dimen>
+
+  <dimen name="dialog_bg_radiust">10dp</dimen>
+  <!--手势密码尺寸-->
+  <dimen name="lockindictor_top">50dp</dimen>
+  <dimen name="eye_size">30dp</dimen>
+  <dimen name="circle_leftpadding">125px</dimen>
+  <dimen name="tip_top_paddingheight">60dp</dimen>
+  <dimen name="tip_top_paddingbottomheight">17dp</dimen>
+  <dimen name="gesture_paddingtop">12dp</dimen>
+  <dimen name="gesture_tip_bottom">20dp</dimen>
+
+  <dimen name="login_110_regist">40dp</dimen>
+  <dimen name="sign_paddingtop">200dp</dimen>
+  <dimen name="sign_left_padding">58dp</dimen>
+  <dimen name="sign_right_padding">62dp</dimen>
+
+  <dimen name="cgt_banklist">80dp</dimen>
+  <dimen name="jiaxiletab_paddingbottom">90dp</dimen>
+    <dimen name="tiyanjin_guoqi_right">130dp</dimen>
+    <dimen name="tiyanjin_guoqi_top">25dp</dimen>
+    <dimen name="jiaxile_guoqi_right">90dp</dimen>
+    <dimen name="jiaxile_guoqi_top">20dp</dimen>
+  <dimen name="shixiao_top">35dp</dimen>
+</resources>

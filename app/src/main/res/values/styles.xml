@@ -1,0 +1,43 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <!--TabLayout字体-->
+  <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+    <item name="android:textSize">15sp</item>
+    <item name="android:textStyle">normal</item>
+  </style>
+
+  <!--分割线-->
+  <style name="tv_divider_horizontal">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">1px</item>
+    <item name="android:background">@color/spilt_line_color</item>
+  </style>
+
+  <!--textview -->
+  <style name="tv_custom_normal_wrap">
+    <item name="android:layout_width">wrap_content</item>
+    <item name="android:layout_height">wrap_content</item>
+    <item name="android:textSize">@dimen/size_4</item>
+    <item name="android:maxLines">1</item>
+    <item name="android:ellipsize">end</item>
+    <item name="android:includeFontPadding">false</item>
+    <item name="android:drawablePadding">@dimen/dimen_small</item>
+  </style>
+
+  <style name="tv_loading" parent="tv_custom_normal_wrap">
+    <item name="android:layout_centerVertical">true</item>
+    <item name="android:layout_marginLeft">@dimen/dimen_small_x</item>
+    <item name="android:layout_toRightOf">@id/iv_logo_loading</item>
+    <item name="android:text">呀呀呀呀呀呀哎呀</item>
+    <item name="android:textSize">@dimen/size_6</item>
+    <item name="android:textColor">@color/color_1</item>
+  </style>
+</resources>

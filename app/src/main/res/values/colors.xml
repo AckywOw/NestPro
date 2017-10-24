@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--主题-->
+  <color name="colorPrimary">#FB5F31</color>
+  <color name="colorPrimaryDark">#D1242B</color>
+  <color name="colorAccent">#4043ff</color>
+  <!--标题栏-->
+  <color name="colorNavBar">@color/colorPrimaryDark</color>
+
+  <color name="colorTabLightText">#db3838</color>
+  <color name="colorTabGrayText">#565656</color>
+  <!--app 主要背景色-->
+  <color name="appMainBg">#ebebeb</color>
+  <color name="appLoginBg">#9C9C9C</color>
+  <!-- UI2.6 字体颜色标准 -->
+
+  <color name="color_1">#333333</color><!--˙主文字-->
+  <color name="color_2">#666666</color><!--˙辅助文字：列表辅助。。。-->
+  <color name="color_3">#999999</color><!--˙标签-->
+  <color name="color_4">#db3838</color><!--辅助文字 日期时间-->
+  <color name="color_5">#fe7740</color>
+  <color name="color_6">#4471bc</color>
+  <color name="color_7">#5d5d5d</color>
+  <color name="color_8">#f5f5f5</color>
+  <color name="color_9">#e2e3e3</color>
+  <color name="color_10">#82bf00</color>
+  <color name="color_11">#fff600</color>
+  <!--透明-->
+  <color name="transparent">#00000000</color>
+  <!--半透明-->
+  <color name="translucent">#e0000000</color>
+  <!--轮播图指示器-->
+  <color name="off_point">#7fFFFFFF</color>
+  <color name="white">#ffFFFFFF</color>
+  <!--分割线-->
+  <color name="spilt_line_color">#e2e3e3</color>
+
+  <!--Button normal-->
+  <color name="colorBtnNormal">#db3838</color>
+  <color name="colorBtnPressed">#fe7740</color>
+  <color name="colorBtnDisabled">#cccccc</color>
+  <!--Button normal ＋透明度-->
+  <color name="colorBtnLightNormal">#ccdb3838</color>
+  <color name="colorBtnLightPressed">#ccfe7740</color>
+
+  <color name="money_tip_bg">#faf6d3</color>
+
+  <color name="step_gray">#cccccc</color>
+  <color name="sign_in_text">#f75632</color>
+  <color name="sign_in_title">#f75632</color>
+
+
+  <color name="progress_left">#a1d9fb</color>
+  <color name="progress_right">#63bcf4</color>
+
+
+  <color name="sign_in_color">#f85531</color>
+  <!--线条颜色 加深-->
+  <color name="line">#dddddd</color>
+  <!--手势密码-->
+  <color name="shoushi_tip_color">#fff600</color>
+  <color name="set_tip_for_save">#ffc2c2</color>
+  <color name="set_paint_error">#fe0000</color>
+  <!--风险测评-->
+  <color name="disk_asset">#277ce0</color>
+  <!--充值提现-->
+  <color name="chongzhi_mine">#e46b39</color>
+  <!--10%黑色-->
+  <color name="withdraw_mine">#e5e5e5</color>
+
+  <!--覆盖颜色-->
+  <color name="bgColor_overlay">#60000000</color>
+
+  <!--查看历史加息乐点击后颜色-->
+  <color name="bgColor_clickhistory_jiaxile">#dcdcdc</color>
+  <color name="coupon_red">#ec1f1f</color>
+  <color name="withdrawresult_error_color">#faf5d2</color>
+</resources>

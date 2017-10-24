@@ -1,0 +1,43 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+  <com.mingxxx.nestpro.view.ptrListview.NestedPtrClassicDefaultFrameLayout
+      android:id="@+id/ptr_layout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      >
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fadingEdge="none"
+        android:scrollbars="vertical"
+        />
+  </com.mingxxx.nestpro.view.ptrListview.NestedPtrClassicDefaultFrameLayout>
+  <android.support.v4.widget.NestedScrollView
+      android:id="@+id/blank_view"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:fillViewport="true"
+      android:visibility="gone"
+      >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+      <TextView
+          android:id="@+id/tv_error"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_centerInParent="true"
+          android:text="ERROR!"
+          />
+    </RelativeLayout>
+
+  </android.support.v4.widget.NestedScrollView>
+
+</FrameLayout>
+
